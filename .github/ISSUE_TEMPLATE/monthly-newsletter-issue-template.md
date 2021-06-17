@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-- [x] Create wiki page 
+- [ ] Create wiki page 
 Content
 - [ ] Introduction (@bobmann), 
 ...
